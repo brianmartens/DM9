@@ -21,3 +21,5 @@ modifications.
 Loosely defined, sensitivity is the degree to which the band processor adjusts itself when there is a change in the input signal. *Higher* levels of sensitivity are useful 
 for tracks that have *low* dynamic variance, i.e. tracks that have already been heavily compressed / limited. Try to scale the sensitivity levels inversely with frequency for
 smoother highs and punchier lows. 9 bands makes this pretty easy as you can start at 0 and add 16 for each band below band 9, or you can start at 64 and add 8 for each band below 9.
+
+I've added automation lanes for this already so all you need to do is adjust the values as you see fit.
