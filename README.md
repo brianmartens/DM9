@@ -11,7 +11,7 @@
 
 ### _Project Quickstart
 
-If you've already purchased the above rack extensions and the Fab Filter mastering plugins, you should be able to load _Project with no issues.
+If you've already purchased the above rack extensions and the FabFilter mastering plugins, you should be able to load _Project with no issues.
 Once it is loaded, you can import any audio track you want. **BE SURE TO NORMALIZE PEAK LEVELS TO 0 DB**. You can do this either in Reason itself
 or beforehand in another program, e.g. Audacity. Once you have imported the normalized track, you should *generally* be good to export the audio without making further
 modifications.
