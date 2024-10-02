@@ -9,7 +9,7 @@
 
 ## The Basics
 
-### _Project 2 Quickstart
+### _Project Quickstart
 
 If you've already purchased the above rack extensions and the FabFilter mastering plugins, you should be able to load _Project with no issues.
 Once it is loaded, you can import any audio track you want. **Adjust the input level depending on how much noise suppression you want to have using the guide below**. You can do this either in Reason itself
