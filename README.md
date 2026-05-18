@@ -2,6 +2,7 @@
 9-Band Dynamic Mastering Suite for Reason Studios
 
 ## Required Rack Extensions / VST Plugins
+ - [Leapwing Audio StageOne2](https://leapwingaudio.com/product/stageone2/)
  - [FabFilter Pro-C3, Pro-Q3, Pro-L2](https://www.fabfilter.com/products#mixing-and-mastering)
  - [Selig Auto-Leveler](https://www.reasonstudios.com/shop/rack-extension/selig-leveler/)
  - [Tinker CV](https://www.reasonstudios.com/shop/rack-extension/tinker-cv-math-assistant/)
@@ -27,7 +28,6 @@ clipping. Audacity should let you use the FabFilter pro-L2 limiter to do this fi
 
 ### What is Sensitivity?
 
-Loosely defined, sensitivity is the degree to which the band processor adjusts itself when there is a change in the input signal. If you have a track that has a LOT of hiss, then you should scale the sensitivity levels inversely proportional with frequency. 
-9 bands makes this pretty easy as you can start at 127 for band 1 and subtract 16 for each band until 0 for band 9.
+Loosely defined, sensitivity is the degree to which the band processor adjusts itself when there is a change in the input signal.
 
 I've added automation lanes for this already so all you need to do is adjust the values as you see fit.
